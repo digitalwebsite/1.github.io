@@ -12116,7 +12116,7 @@ span.highlight {
     margin-bottom: 20px; }
     .team-members .team-member .team-image > img {
       width: 100%;
-      border-radius: 5px 5px 0 0; }
+      border-radius: 5px 5px 5px 5px; }
   .team-members .team-member .team-desc {
     padding-bottom: 20px;
     padding-left: 10px;
