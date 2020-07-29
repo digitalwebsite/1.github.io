@@ -9894,7 +9894,7 @@ a.btn:not([href]):not([tabindex]) {
     background: radial-gradient(circle at left top, #4b72ff 9%, #2250fc 48%, #6442ff 91%); }
   .heading-text.heading-section > h2 {
     position: relative;
-    font-size: 48px;
+    font-size: 40px;
     line-height: 56px;
     margin-bottom: 60px; }
     .heading-text.heading-section > h2:before {
