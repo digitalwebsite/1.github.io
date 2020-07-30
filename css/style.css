@@ -1048,10 +1048,9 @@ Topbar
       #header .header-inner #logo a span,
       #header #header-wrap #logo a,
       #header #header-wrap #logo a span {
-        font-family: arial;
+        font-family: Calisto MT;
         font-size: 40px;
         color: #1f1f1f;
-        font-weight: 800;
         letter-spacing: 1.5px; }
   #header[data-fullwidth="true"] .header-inner .container,
   #header[data-fullwidth="true"] #header-wrap .container {
